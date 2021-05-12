@@ -45,6 +45,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _spawnObject: {fileID: 8895793730298068268, guid: fabf7e57797c29b43ac8bfeb9cd76e95,
     type: 3}
-  _timeBetweenSpawns: 5.01
+  _spawnManager: {fileID: 11400000, guid: 706e70f1b67135a4d92b54cab5590bcf, type: 2}
   _canSpawn: 1
   _enemyTarget: {fileID: 0}
